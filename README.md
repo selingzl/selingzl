@@ -14,4 +14,6 @@ Skills: Python / Dart / Java / C / C++ / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=selingzl&show_icons=true)  
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/selinnguzel?si=dcf493192cc040c7)  
+
 
