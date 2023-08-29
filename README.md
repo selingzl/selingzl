@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I am Selin!
+### Hi, I am Selin!
 #### Computer Engineering Student at Istanbul University
 I am sharing projects that are useful for computer engineering students. At the same time, I am working on app development with Flutter and trying to learn artificial intelligence. If you want to learn and develop with me, click the follow button :)
 
