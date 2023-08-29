@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=selingzl.selingzl&left_color=darkgrey&right_color=black&left_text=visitor"  />
+</div>
+
+
 ###
 
 <h1 align="center">Hi, I'm Selin!</h1>
@@ -58,7 +63,9 @@
 
 ###
 
+
 - 📫 How to reach me **selin.guz.13@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -67,11 +74,9 @@
 <a href="https://medium.com/@selingzl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@selingzl" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=selingzl.selingzl&left_color=darkgrey&right_color=black&left_text=visitor"  />
-</div>
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=selinnguzel)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=selinnguzel&count={count})
+
 
 
