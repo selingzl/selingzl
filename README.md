@@ -2,6 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=selingzl.selingzl&left_color=darkgrey&right_color=black&left_text=visitor"  />
 </div>
 
+![I am GitHub Readme Generator's creator]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/selingzl/selingzl/blob/main/Sel%C4%B1n%20nur%20guzel.png))
 
 ###
 
