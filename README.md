@@ -76,8 +76,8 @@
 
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=selinnguzel&count={3})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=selinnguzel&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=selinnguzel&count=3)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=selinnguzel&unique=true)
 
 
 
