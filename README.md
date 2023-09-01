@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a computer engineering student at Istanbul University Cerrahpaşa.<br><br>- 📚 I'm currently learning Machine Learning :)<br>- ⚡ In my free time I play tennis and draw.</p>
+<p align="left">I'm a computer engineering student at Istanbul University Cerrahpaşa.<br><br>- Here, you can find projects about computer engineering lectures and mobile application development with Flutter. <br>- 📚 I'm currently learning Machine Learning :)<br>- ⚡ In my free time I play tennis and draw.</p>
 
 ###
 
