@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=selingzl.selingzl&left_color=darkgrey&right_color=black&left_text=visitor"  />
-</div>
-
 ###
 
 <h1 align="center">Hi, I'm Selin!</h1>
@@ -12,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a computer engineering student at Istanbul University Cerrahpaşa.<br><br>- Here, you can find projects about computer engineering lectures and mobile application development with Flutter. <br>- 📚 I'm currently learning Machine Learning :)<br>- ⚡ In my free time I play tennis and draw.</p>
+<p align="left">I'm a computer engineering student at Istanbul University Cerrahpaşa.<br><br>- Here, you can find projects about computer engineering lectures and mobile application development with Flutter. 
 
 ###
 
@@ -75,7 +71,7 @@
 
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=selinnguzel&count=3)
+
 
 
 
